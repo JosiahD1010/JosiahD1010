@@ -2,7 +2,8 @@
 Here are my latest projects, Take a look around!
 
 - <h2>💻📶 Cloud/Networking Projects: 📶💻<h2> 
- <b>osTicket (Help Desk Ticketing System)</b>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
