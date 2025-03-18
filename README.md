@@ -4,18 +4,18 @@ Here are my latest projects, Take a look around!
 - <h2>💻📶 Cloud/Networking Projects: 📶💻<h2> 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/stephenlangtech/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation]([https://github.com/stephenlangtech/osticket-prereqs](https://github.com/JosiahD1010/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration]([https://github.com/stephenlangtech/post-install-config](https://github.com/JosiahD1010/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples]([https://github.com/stephenlangtech/ticket-lifecycle](https://github.com/JosiahD1010/ticket-lifestyle)
     
 - <b>Networks in Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stephenlangtech/azure-network-protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/stephenlangtech/configure-ad)
-  - [Network File Shares and Permissions](https://github.com/stephenlangtech/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/stephenlangtech/Building-Intuition-for-DNS)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]([https://github.com/stephenlangtech/azure-network-protocols)](https://github.com/JosiahD1010/azure-network-protocol)
+  - [Configuring Active Directory within Azure VMs]([https://github.com/stephenlangtech/configure-ad)](https://github.com/JosiahD1010/configure-ad)
+  - [Network File Shares and Permissions]([https://github.com/stephenlangtech/Network-File-Shares-and-Permissions)](https://github.com/JosiahD1010/network-file-shares-and-permissions)
+  - [Building Intuition for DNS]([https://github.com/stephenlangtech/Building-Intuition-for-DNS)](https://github.com/JosiahD1010/building-intuition-for-dns)
  
 - <b>Virtual Private Network</b>
-  - [VPN Setup in a Virtual Machine ](https://github.com/stephenlangtech/Setting-UP-A-VPN)
+  - [VPN Setup in a Virtual Machine ](https://github.com/JosiahD1010/setting-up-a-vpn)
 
 <h2>Connect With Me:</h2>
 
